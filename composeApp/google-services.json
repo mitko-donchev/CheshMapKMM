@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "873624158135",
+    "project_id": "cheshmap-3a1af",
+    "storage_bucket": "cheshmap-3a1af.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:873624158135:android:5a6e885b0ebdf52105f232",
+        "android_client_info": {
+          "package_name": "com.epicmillennium.cheshmap"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANy4XPFZjTQDcOLsaCUlG4CrgIQCY6Zq0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

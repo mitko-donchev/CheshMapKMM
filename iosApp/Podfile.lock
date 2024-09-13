@@ -1,0 +1,28 @@
+PODS:
+  - composeApp (1.0):
+    - GoogleMaps
+  - GoogleMaps (9.1.1):
+    - GoogleMaps/Maps (= 9.1.1)
+  - GoogleMaps/Base (9.1.1)
+  - GoogleMaps/Maps (9.1.1):
+    - GoogleMaps/Base
+
+DEPENDENCIES:
+  - composeApp (from `../composeApp`)
+  - GoogleMaps (= 9.1.1)
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - GoogleMaps
+
+EXTERNAL SOURCES:
+  composeApp:
+    :path: "../composeApp"
+
+SPEC CHECKSUMS:
+  composeApp: 912ac3b25660abafc867f59c78b8d01f90c85e48
+  GoogleMaps: 80ea184ed6bf44139f383a8b0e248ba3ec1cc8c9
+
+PODFILE CHECKSUM: 42212e9f08e78a2a67aa27842a5da18c8aa24464
+
+COCOAPODS: 1.15.2
